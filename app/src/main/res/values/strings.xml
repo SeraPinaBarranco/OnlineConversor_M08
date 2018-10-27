@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnlineConversor_M08</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="value_change">Change of value</string>
+    <string name="button_next">Go Next</string>
+    <string name="btn_convert">Convert</string>
+</resources>
